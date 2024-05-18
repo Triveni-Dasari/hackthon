@@ -1,0 +1,19 @@
+
+body {
+    background-color:wheat;
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    height: 100vh;
+    margin: 0px;
+    
+}
+canvas {
+    border: 1px solid #000;
+    border-radius: 2px;
+    background-color: #fff;
+    justify-content: center;
+}     
+        
+        
